@@ -15,9 +15,6 @@
 
 <h2>
   How to run: In order to run this project, you will need your own Mapbox GL Access Token from <a href="https://account.mapbox.com/auth/signup/">here</a>. After obtaining your access token, open mapanimation.js and paste your token in line 2 (mapboxgl.accessToken). Also, you will need to set the setTimeout on line 33 (1 second = 1000). Run the code and enjoy.
-  ```
-  https://github.com/chung-sun/real-time-bus-tracking.git
-  ```
 </h2>
 <h2>
   Road Map: This project will be the base and expand to include different cities like New York, Chicago, Los Angeles, and Miami. Future releases will include custom bus images, more accurate travelling direction, highlight travel route, maybe arrival time to next station and so on.
