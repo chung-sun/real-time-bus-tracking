@@ -9,12 +9,12 @@
 <br>
 <h2>
   Description: This project uses Mapbox GL to render Massachusetts Bay Transportation Authority Orange Bus Line 1 travelling from Harvard Square to Nubian Station. It uses Mapbox map layer and markers indicating the bus travelling along the designated route. Each bus marker has a Pop-up with some additional information such as, bus number, traveling direction (North or South), next station name and seat status.
-  There are still some additional customization needed but it will be done in the future.
+  There are still some additional customization needed, but it will be done in the future.
 
 </h2>
 
 <h2>
-  How to run: In order to run this project, you will need your own Mapbox GL Access Token from <a href="https://account.mapbox.com/auth/signup/">here</a>. After optaining your access token, open mapanimation.js and paste your token in line 2 (mapboxgl.accessToken). Also you will need to set the setTime on line 33 (1 second = 1000). Run the code and enjoy.
+  How to run: In order to run this project, you will need your own Mapbox GL Access Token from <a href="https://account.mapbox.com/auth/signup/">here</a>. After obtaining your access token, open mapanimation.js and paste your token in line 2 (mapboxgl.accessToken). Also, you will need to set the setTime on line 33 (1 second = 1000). Run the code and enjoy.
 </h2>
 <h2>
   Road Map: This project will be the base and expand to include different cities like New York, Chicago, Los Angeles, and Miami. Future releases will include custom bus images, more accurate travelling direction, highlight travel route, maybe arrival time to next station and so on.
