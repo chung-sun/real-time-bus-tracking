@@ -1,5 +1,5 @@
 // Add your own access token
-mapboxgl.accessToken = 'pk.eyJ1IjoiY2h1bmdzdW4iLCJhIjoiY2wyd25hZDViMDMwbjNqcGh1cmZubThwMSJ9.LlIZ-Yk75SmAS5tpGSdgEA';
+mapboxgl.accessToken = '';
 let markerObjects = [];
 let marker;
 
