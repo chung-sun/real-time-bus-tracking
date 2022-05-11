@@ -22,7 +22,7 @@
 </h2>
 
 <h2>License</h2>
-
+<hr>
 <p>
   MIT License
 
@@ -47,7 +47,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 </p>
-
+<hr>
 <p>
   Mapbox GL
 
@@ -78,7 +78,7 @@ are permitted provided that the following conditions are met:
   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 </p>
-
+<hr>
 <p>
   Massachusetts Bay Transportation Authority (MBTA) Website
 
