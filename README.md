@@ -10,11 +10,16 @@
 <h2>
   Description: This project uses Mapbox GL to render Massachusetts Bay Transportation Authority Orange Bus Line 1 travelling from Harvard Square to Nubian Station. It uses Mapbox map layer and markers indicating the bus travelling along the designated route. Each bus marker has a Pop-up with some additional information such as, bus number, traveling direction (North or South), next station name and seat status.
   There are still some additional customization needed but it will be done in the future.
+
 </h2>
+
 <h2>
   Road Map: This project will be the base and expand to include different cities like New York, Chicago, Los Angeles, and Miami. Future releases will include custom bus images, more accurate travelling direction, highlight travel route, maybe arrival time to next station and so on.
+
 </h2>
+
 <h2>License</h2>
+
 <p>
   MIT License
 
@@ -39,6 +44,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 </p>
+
 <p>
   Mapbox GL
 
@@ -69,9 +75,13 @@ are permitted provided that the following conditions are met:
   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 </p>
+
 <p>
-  Terms and Conditions of Use
   Massachusetts Bay Transportation Authority (MBTA) Website
-  This Website (the "Website," or the "Site") is provided to you by the Massachusetts Bay Transportation Authority ("MBTA”, "we" or "us"). To assist you in using our Website, and to explain the relationship arising from your use of our Site and the programs and services we offer through it, we have created (i) these Termsand Conditions of Use (the "Terms") and (ii) a Privacy Policy. Our Privacy Policy ("Policy") explains how we treat information you provide to us through the Site. Our Terms govern your use of our Site. Both our Terms and Privacy Policy apply to visitors to our Site ("Site Visitors") as well as anyone enrolling in the programs or services we offer through it. These Terms apply only to your use this Website, and receipt of services, information, or other materials through the Site. These Terms do not apply to any other services, goods, or information you obtain from the MBTA.
-  For full details click <a href="https://www.mbta.com/policies/terms-use">here</a>
+
+Terms and Conditions of Use
+
+This Website (the "Website," or the "Site") is provided to you by the Massachusetts Bay Transportation Authority ("MBTA”, "we" or "us"). To assist you in using our Website, and to explain the relationship arising from your use of our Site and the programs and services we offer through it, we have created (i) these Termsand Conditions of Use (the "Terms") and (ii) a Privacy Policy. Our Privacy Policy ("Policy") explains how we treat information you provide to us through the Site. Our Terms govern your use of our Site. Both our Terms and Privacy Policy apply to visitors to our Site ("Site Visitors") as well as anyone enrolling in the programs or services we offer through it. These Terms apply only to your use this Website, and receipt of services, information, or other materials through the Site. These Terms do not apply to any other services, goods, or information you obtain from the MBTA.
+For full details click <a href="https://www.mbta.com/policies/terms-use">here</a>
+
 </p>
